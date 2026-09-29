@@ -1,0 +1,23 @@
+# Part 1 - recording / LP residual / formants
+sounddevice
+soundfile
+librosa
+numpy
+scipy
+matplotlib
+
+# Part 2 - age classification
+opensmile
+pandas
+tqdm
+scikit-learn
+xgboost
+tensorflow
+
+# Part 3 - ASR fine-tuning (HuBERT / Wav2Vec2-XLS-R)
+transformers
+datasets
+accelerate
+torch
+jiwer
+soundfile>=0.12.1
